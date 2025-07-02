@@ -1,4 +1,6 @@
 -------------------------step1----------------------
+#Testing with git
+
 create the ec2 with amzon Linux os server
 then connect to the server
 -- create rds database 
